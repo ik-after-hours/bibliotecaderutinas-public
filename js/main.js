@@ -1,4 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
+  const baseUrl = (window.__BASE_URL__ || "/").replace(/\/?$/, "/");
+  const withBase = (path) => {
+    if (!path) return baseUrl;
+    if (/^(https?:)?\/\//i.test(path)) return path;
+    if (path.startsWith(baseUrl)) return path;
+    return baseUrl.replace(/\/$/, "") + (path.startsWith("/") ? path : "/" + path);
+  };
+
   const toggle = document.querySelector(".menu-toggle");
   const nav = document.querySelector(".main-nav");
   if (toggle && nav) {
@@ -50,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let index = null;
     const loadIndex = async () => {
       if (index) return index;
-      const res = await fetch("/search-index.json");
+      const res = await fetch(withBase("/search-index.json"));
       index = await res.json();
       return index;
     };
@@ -69,7 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .slice(0, 12);
       hits.forEach((hit) => {
         const li = document.createElement("li");
-        li.innerHTML = `<a href="${hit.permalink}">${hit.title}</a>`;
+        li.innerHTML = `<a href="${withBase(hit.permalink)}">${hit.title}</a>`;
         results.appendChild(li);
       });
       if (!hits.length) {
