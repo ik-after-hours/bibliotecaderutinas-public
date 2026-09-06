@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ejercicios on Biblioteca de Rutinas</title>
+    <link>http://localhost:1313/tag/ejercicios/</link>
+    <description>Recent content in Ejercicios on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 24 Jan 2021 18:24:50 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/ejercicios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía definitiva del Peso Muerto convencional</title>
+      <link>http://localhost:1313/guia-definitiva-del-peso-muerto-convencional/</link>
+      <pubDate>Sun, 24 Jan 2021 18:18:02 +0000</pubDate>
+      <guid>http://localhost:1313/guia-definitiva-del-peso-muerto-convencional/</guid>
+      <description>El peso muerto convencional es un ejercicio con una gran cantidad de beneficios y que se traslada muy bien a diversos tipos de movimientos que forman parte de la mayoría de deportes.&#xA;El peso muerto debe ser uno de los núcleos centrales de un buen entrenamiento de fuerza, debido a que, aparte de trabajar la capacidad de generar fuerza con todo tu cuerpo, tiene un gran impacto a nivel neuromuscular y de sistema central nervioso e involucra a gran parte de la musculatura del cuerpo.</description>
+    </item>
+    <item>
+      <title>La guía definitiva de la Sentadilla trasera</title>
+      <link>http://localhost:1313/la-guia-definitiva-de-la-sentadilla-trasera/</link>
+      <pubDate>Sun, 17 Jan 2021 11:57:51 +0000</pubDate>
+      <guid>http://localhost:1313/la-guia-definitiva-de-la-sentadilla-trasera/</guid>
+      <description>Esta guía pretende aglutinar de forma no muy extensa pero efectiva, los puntos más importantes para mejorar tu sentadilla trasera y realizarla con una técnica correcta y lo más limpia posible.&#xA;Nos guste o no, la sentadilla es uno de los ejercicios más completos para desarrollar el tren inferior, tanto a nivel de fuerza como a nivel de hipertrofia.</description>
+    </item>
+    <item>
+      <title>La guía definitiva del Press de Banca</title>
+      <link>http://localhost:1313/la-guia-definitiva-del-press-de-banca/</link>
+      <pubDate>Mon, 11 Jan 2021 11:34:34 +0000</pubDate>
+      <guid>http://localhost:1313/la-guia-definitiva-del-press-de-banca/</guid>
+      <description>Todo el mundo quiere un gran press de banca, lo admitan o no.&#xA;Cuando alguien se entere de que levantas pesas, a menos que sea un atleta de fuerza y le interese especialmente el powerlifting, normalmente no te preguntarán cuánto levantas en sentadilla o peso muerto.</description>
+    </item>
+  </channel>
+</rss>

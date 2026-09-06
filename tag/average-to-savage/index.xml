@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Average to Savage on Biblioteca de Rutinas</title>
+    <link>http://localhost:1313/tag/average-to-savage/</link>
+    <description>Recent content in Average to Savage on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 21 Feb 2021 13:17:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/average-to-savage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rutina Average to Savage 2.0 Hipertrofia</title>
+      <link>http://localhost:1313/rutina-average-to-savage-2-0-hipertrofia/</link>
+      <pubDate>Tue, 06 Oct 2020 12:46:54 +0000</pubDate>
+      <guid>http://localhost:1313/rutina-average-to-savage-2-0-hipertrofia/</guid>
+      <description>IntroducciónEsta es una rutina de hipertrofia basada en el programa base “Average to Savage 2.0“, que debido a la flexibilidad del mismo permite cualquier adaptación, como esta misma enfocada a la ganancia muscular.&#xA;Hay algunas diferencias importantes entre la plantilla de hipertrofia y el programa base de AtS 2.</description>
+    </item>
+    <item>
+      <title>Programa entrenamiento Average To Savage 2.0</title>
+      <link>http://localhost:1313/programa-entrenamiento-average-to-savage-2-0/</link>
+      <pubDate>Tue, 06 Oct 2020 08:45:52 +0000</pubDate>
+      <guid>http://localhost:1313/programa-entrenamiento-average-to-savage-2-0/</guid>
+      <description>Introducción“Average to Savage 2.0” es un programa de entrenamiento creado por Greg Nuckols, un reputado entrenador y divulgador de las ciencias del deporte aplicadas al entrenamiento y rendimiento en el gimnasio.&#xA;Average to Savage es más que una rutina, es un programa de entrenamiento donde Greg ha aplicado todos sus conocimientos y las conclusiones derivadas de la ciencia aplicada al entrenamiento, para crear una plantilla muy flexible y adaptable.</description>
+    </item>
+  </channel>
+</rss>
