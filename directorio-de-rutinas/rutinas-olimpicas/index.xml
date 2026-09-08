@@ -1,3 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rutinas olímpicas on Biblioteca de Rutinas</title><link>/directorio-de-rutinas/rutinas-olimpicas/</link><description>Recent content in Rutinas olímpicas on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Tue, 15 Mar 2022 15:39:25 +0000</lastBuildDate><atom:link href="/directorio-de-rutinas/rutinas-olimpicas/index.xml" rel="self" type="application/rss+xml"/><item><title>Programa Sentadillas Greg Everett</title><link>/programa-sentadillas-greg-everett/</link><pubDate>Sun, 06 Dec 2020 14:35:48 +0000</pubDate><guid>/programa-sentadillas-greg-everett/</guid><description>Resumen Programa Sentadillas Greg EverettEste es un programa centrado en la sentadilla de 6 días por semana, y con una duración de un total de 10 semanas, con una alta frecuencia y volumen diseñado por el preparador estadounidense de halterofilia Greg Everett.</description></item><item><title>Programa Sentadillas Soviético</title><link>/programa-sentadillas-sovietico/</link><pubDate>Sun, 06 Dec 2020 12:54:27 +0000</pubDate><guid>/programa-sentadillas-sovietico/</guid><description>Resumen Programa Sentadilla SoviéticaEste programa está basado en los entrenamientos de fuerza centrados en mejorar la fuerza del tren inferior a través de la sentadilla, usados por los equipos de halterofilia soviéticos que dominaron el panorama olímpico durante los años 70.</description></item><item><title>Programa Sentadillas Tim Swords</title><link>/programa-sentadillas-tim-swords/</link><pubDate>Sat, 05 Dec 2020 17:53:22 +0000</pubDate><guid>/programa-sentadillas-tim-swords/</guid><description>Resumen Programa Sentadillas Tim SwordsEste es un programa de entrenamiento para la sentadilla creado por el preparador de halterofilia Tim Swords, uno de los preparadores más reconocidos de la halterofilia estadounidense.
-Este programa ha sido usado por Tim Swords en muchos de sus competidores para mejorar tu sentadilla y la fuerza de su tren inferior.</description></item><item><title>Rutina Sentadillas Hatch Squat</title><link>/rutina-sentadillas-hatch-squat/</link><pubDate>Sat, 05 Dec 2020 16:27:05 +0000</pubDate><guid>/rutina-sentadillas-hatch-squat/</guid><description>Resumen Programa Entrenamiento Hatch SquatCreado por el preparador y antiguo seleccionador del equipo estadounidense de halterofilia Gayle Hatch, el programa “Hatch Squat” tiene como objetivo la mejora de la sentadilla y, por tanto, de la fuerza del tren inferior.
-Se entrena la sentadilla 2 veces por semana (frecuencia 2) durante un total de 12 semanas.</description></item><item><title>Rutina halterofilia “Supertotal Basics” de Next Step Strength</title><link>/rutina-halterofilia-supertotal-basics/</link><pubDate>Thu, 24 Sep 2020 19:20:17 +0000</pubDate><guid>/rutina-halterofilia-supertotal-basics/</guid><description>Introducción“Super Total” es un estilo de entrenamiento que combina la halterofilia y el powerlifting. El objetivo del programa es lograr tú máximo “super total”, es decir, el total de kilos de la suma de tu arrancada, dos tiempos, sentadilla, press de banca y peso muerto.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rutinas olímpicas on Biblioteca de Rutinas</title>
+    <link>//localhost:1313/directorio-de-rutinas/rutinas-olimpicas/</link>
+    <description>Recent content in Rutinas olímpicas on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 15 Mar 2022 15:39:25 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/directorio-de-rutinas/rutinas-olimpicas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programa Sentadillas Greg Everett</title>
+      <link>//localhost:1313/programa-sentadillas-greg-everett/</link>
+      <pubDate>Sun, 06 Dec 2020 14:35:48 +0000</pubDate>
+      <guid>//localhost:1313/programa-sentadillas-greg-everett/</guid>
+      <description>Resumen Programa Sentadillas Greg Everett Este es un programa centrado en la sentadilla de 6 días por semana, y con una duración de un total de 10 semanas, con una alta frecuencia y volumen diseñado por el preparador estadounidense de halterofilia Greg Everett.</description>
+    </item>
+    <item>
+      <title>Programa Sentadillas Soviético</title>
+      <link>//localhost:1313/programa-sentadillas-sovietico/</link>
+      <pubDate>Sun, 06 Dec 2020 12:54:27 +0000</pubDate>
+      <guid>//localhost:1313/programa-sentadillas-sovietico/</guid>
+      <description>Resumen Programa Sentadilla Soviética Este programa está basado en los entrenamientos de fuerza centrados en mejorar la fuerza del tren inferior a través de la sentadilla, usados por los equipos de halterofilia soviéticos que dominaron el panorama olímpico durante los años 70.</description>
+    </item>
+    <item>
+      <title>Programa Sentadillas Tim Swords</title>
+      <link>//localhost:1313/programa-sentadillas-tim-swords/</link>
+      <pubDate>Sat, 05 Dec 2020 17:53:22 +0000</pubDate>
+      <guid>//localhost:1313/programa-sentadillas-tim-swords/</guid>
+      <description>Resumen Programa Sentadillas Tim Swords Este es un programa de entrenamiento para la sentadilla creado por el preparador de halterofilia Tim Swords, uno de los preparadores más reconocidos de la halterofilia estadounidense.&#xA;Este programa ha sido usado por Tim Swords en muchos de sus competidores para mejorar tu sentadilla y la fuerza de su tren inferior.</description>
+    </item>
+    <item>
+      <title>Rutina Sentadillas Hatch Squat</title>
+      <link>//localhost:1313/rutina-sentadillas-hatch-squat/</link>
+      <pubDate>Sat, 05 Dec 2020 16:27:05 +0000</pubDate>
+      <guid>//localhost:1313/rutina-sentadillas-hatch-squat/</guid>
+      <description>Resumen Programa Entrenamiento Hatch Squat Creado por el preparador y antiguo seleccionador del equipo estadounidense de halterofilia Gayle Hatch, el programa “Hatch Squat” tiene como objetivo la mejora de la sentadilla y, por tanto, de la fuerza del tren inferior.</description>
+    </item>
+    <item>
+      <title>Rutina halterofilia “Supertotal Basics” de Next Step Strength</title>
+      <link>//localhost:1313/rutina-halterofilia-supertotal-basics/</link>
+      <pubDate>Thu, 24 Sep 2020 19:20:17 +0000</pubDate>
+      <guid>//localhost:1313/rutina-halterofilia-supertotal-basics/</guid>
+      <description>Introducción *“Super Total”***es un estilo de entrenamiento que combina la halterofilia y el powerlifting. El objetivo del programa es lograr tú máximo “super total”, es decir, el total de kilos de la suma de tu arrancada, dos tiempos, sentadilla, press de banca y peso muerto.</description>
+    </item>
+  </channel>
+</rss>

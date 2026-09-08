@@ -1,5 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peso muerto on Biblioteca de Rutinas</title><link>/directorio-de-rutinas/rutinas-especificas/peso-muerto/</link><description>Recent content in Peso muerto on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 21 Feb 2021 14:12:57 +0000</lastBuildDate><atom:link href="/directorio-de-rutinas/rutinas-especificas/peso-muerto/index.xml" rel="self" type="application/rss+xml"/><item><title>Programa Peso Muerto Vince Anello</title><link>/programa-peso-muerto-vince-anello/</link><pubDate>Mon, 07 Dec 2020 16:30:18 +0000</pubDate><guid>/programa-peso-muerto-vince-anello/</guid><description>Resumen Programa Peso Muerto Vince AnelloVince Anello es uno de los powerlifters históricos y con algunas de las marcas de peso muerto más impresionante de la historia, sobre todo si tenemos en cuenta su peso corporal.
-Con 90 kg de peso corporal, en 1975 fue capaz de ser el primero en la historia en levantar más de 360kg en peso muerto en esa categoría de peso en competición oficial.</description></item><item><title>Programa Peso Muerto GCPT</title><link>/programa-peso-muerto-gcpt/</link><pubDate>Sun, 06 Dec 2020 17:01:33 +0000</pubDate><guid>/programa-peso-muerto-gcpt/</guid><description>Resumen Programa Peso Muerto GCPTSe trata de un programa de 8 semanas de duración y 2 sesiones de entrenamiento semanales, con el objetivo de mejorar el peso muerto y creado por “GC Performance Training”, un centro deportivo para mejorar el rendimiento de diferentes tipos de atletas.</description></item><item><title>Programa Peso Muerto Ed Coan</title><link>/programa-peso-muerto-ed-coan/</link><pubDate>Sun, 06 Dec 2020 15:38:46 +0000</pubDate><guid>/programa-peso-muerto-ed-coan/</guid><description>Resumen Programa Peso Muerto Ed CoanSe trata de un programa de entrenamiento para el peso muerto diseñado por el propio Ed Coan, uno de los powerlifters más exitosos de la historia y, para algunos, el mejor powerlifter de la historia.</description></item><item><title>Programa Peso Muerto Mag Ort</title><link>/programa-peso-muerto-mag-ort/</link><pubDate>Sat, 05 Dec 2020 20:53:11 +0000</pubDate><guid>/programa-peso-muerto-mag-ort/</guid><description>Resumen Programa Peso Muerto Mag OrtEste es un programa de peso muerto basado en el enfoque del entrenamiento de peso muerto del gran strongman islandés Benedikt Magnusson y retocado por el también strongman estadounidense Travis Ortmayer.
-Se trata de un programa con 1 sola sesión de entrenamiento a la semana, donde solo se trabaja el peso muerto a 7 series en diferentes porcentajes del 1RM (repetición máxima).</description></item><item><title>Programa Peso Muerto Greg Nuckols</title><link>/programa-peso-muerto-greg-nuckols/</link><pubDate>Sat, 28 Nov 2020 16:07:43 +0000</pubDate><guid>/programa-peso-muerto-greg-nuckols/</guid><description>ResumenEl programa forma parte de los programas gratuitos elaborados por el famosodibulgador de los entrenamientos de fuerza Greg Nuckols y que están centrados en la sentadilla, peso muerto y press de banca.
-Este programa en concreto es el centrado en la mejora del peso muerto.</description></item><item><title>Programa Peso Muerto Candito</title><link>/programa-peso-muerto-candito/</link><pubDate>Sat, 21 Nov 2020 22:47:42 +0000</pubDate><guid>/programa-peso-muerto-candito/</guid><description>ResumenEl programa de peso muerto de Jonnie Candito, como su nombre ya indica, consiste en un programa diseñado para que los levantadores avanzados puedan centrarse y progresar en el peso muerto trabajando exclusivamente este levantamiento y sus variantes.
-Jonnie Candito establece que un levantador avanzado es aquel que ya no puede progresar ni semanalmente ni cada mes, es decir, requiere de más de un mes para progresar en sus levantamientos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peso muerto on Biblioteca de Rutinas</title>
+    <link>//localhost:1313/directorio-de-rutinas/rutinas-especificas/peso-muerto/</link>
+    <description>Recent content in Peso muerto on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 21 Feb 2021 14:12:57 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/directorio-de-rutinas/rutinas-especificas/peso-muerto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programa Peso Muerto Vince Anello</title>
+      <link>//localhost:1313/programa-peso-muerto-vince-anello/</link>
+      <pubDate>Mon, 07 Dec 2020 16:30:18 +0000</pubDate>
+      <guid>//localhost:1313/programa-peso-muerto-vince-anello/</guid>
+      <description>Resumen Programa Peso Muerto Vince Anello Vince Anello es uno de los powerlifters históricos y con algunas de las marcas de peso muerto más impresionante de la historia, sobre todo si tenemos en cuenta su peso corporal.&#xA;Con 90 kg de peso corporal, en 1975 fue capaz de ser el primero en la historia en levantar más de 360kg en peso muerto en esa categoría de peso en competición oficial.</description>
+    </item>
+    <item>
+      <title>Programa Peso Muerto GCPT</title>
+      <link>//localhost:1313/programa-peso-muerto-gcpt/</link>
+      <pubDate>Sun, 06 Dec 2020 17:01:33 +0000</pubDate>
+      <guid>//localhost:1313/programa-peso-muerto-gcpt/</guid>
+      <description>Resumen Programa Peso Muerto GCPT Se trata de un programa de 8 semanas de duración y 2 sesiones de entrenamiento semanales, con el objetivo de mejorar el peso muerto y creado por “GC Performance Training”, un centro deportivo para mejorar el rendimiento de diferentes tipos de atletas.</description>
+    </item>
+    <item>
+      <title>Programa Peso Muerto Ed Coan</title>
+      <link>//localhost:1313/programa-peso-muerto-ed-coan/</link>
+      <pubDate>Sun, 06 Dec 2020 15:38:46 +0000</pubDate>
+      <guid>//localhost:1313/programa-peso-muerto-ed-coan/</guid>
+      <description>Resumen Programa Peso Muerto Ed Coan Se trata de un programa de entrenamiento para el peso muerto diseñado por el propio Ed Coan, uno de los powerlifters más exitosos de la historia y, para algunos, el mejor powerlifter de la historia.</description>
+    </item>
+    <item>
+      <title>Programa Peso Muerto Mag Ort</title>
+      <link>//localhost:1313/programa-peso-muerto-mag-ort/</link>
+      <pubDate>Sat, 05 Dec 2020 20:53:11 +0000</pubDate>
+      <guid>//localhost:1313/programa-peso-muerto-mag-ort/</guid>
+      <description>Resumen Programa Peso Muerto Mag Ort Este es un programa de peso muerto basado en el enfoque del entrenamiento de peso muerto del gran strongman islandés Benedikt Magnusson y retocado por el también strongman estadounidense Travis Ortmayer.&#xA;Se trata de un programa con 1 sola sesión de entrenamiento a la semana, donde solo se trabaja el peso muerto a 7 series en diferentes porcentajes del 1RM (repetición máxima).</description>
+    </item>
+    <item>
+      <title>Programa Peso Muerto Greg Nuckols</title>
+      <link>//localhost:1313/programa-peso-muerto-greg-nuckols/</link>
+      <pubDate>Sat, 28 Nov 2020 16:07:43 +0000</pubDate>
+      <guid>//localhost:1313/programa-peso-muerto-greg-nuckols/</guid>
+      <description>Resumen El programa forma parte de los programas gratuitos elaborados por el famosodibulgador de los entrenamientos de fuerza Greg Nuckols y que están centrados en la sentadilla, peso muerto y press de banca.&#xA;Este programa en concreto es el centrado en la mejora del peso muerto.</description>
+    </item>
+    <item>
+      <title>Programa Peso Muerto Candito</title>
+      <link>//localhost:1313/programa-peso-muerto-candito/</link>
+      <pubDate>Sat, 21 Nov 2020 22:47:42 +0000</pubDate>
+      <guid>//localhost:1313/programa-peso-muerto-candito/</guid>
+      <description>Resumen El programa de peso muerto de Jonnie Candito, como su nombre ya indica, consiste en un programa diseñado para que los levantadores avanzados puedan centrarse y progresar en el peso muerto trabajando exclusivamente este levantamiento y sus variantes.&#xA;Jonnie Candito establece que un levantador avanzado es aquel que ya no puede progresar ni semanalmente ni cada mes, es decir, requiere de más de un mes para progresar en sus levantamientos.</description>
+    </item>
+  </channel>
+</rss>

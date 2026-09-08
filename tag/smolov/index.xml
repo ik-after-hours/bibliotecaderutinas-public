@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Smolov on Biblioteca de Rutinas</title><link>/tag/smolov/</link><description>Recent content in Smolov on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Thu, 01 Apr 2021 18:48:16 +0000</lastBuildDate><atom:link href="/tag/smolov/index.xml" rel="self" type="application/rss+xml"/><item><title>Programa Smolov Sentadillas</title><link>/programa-smolov-sentadillas/</link><pubDate>Fri, 18 Dec 2020 23:10:28 +0000</pubDate><guid>/programa-smolov-sentadillas/</guid><description>IntroducciónEl programa de entrenamiento Smolov, originario de Rusia (una de las mecas de la fuerza desde la época soviética), ya que fue creado por el ruso Sergey Smolov, un referente en los entrenamientos de fuerza y apodado “maestro de los deportes”.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smolov on Biblioteca de Rutinas</title>
+    <link>//localhost:1313/tag/smolov/</link>
+    <description>Recent content in Smolov on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Apr 2021 18:48:16 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tag/smolov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programa Smolov Sentadillas</title>
+      <link>//localhost:1313/programa-smolov-sentadillas/</link>
+      <pubDate>Fri, 18 Dec 2020 23:10:28 +0000</pubDate>
+      <guid>//localhost:1313/programa-smolov-sentadillas/</guid>
+      <description>Introducción El programa de entrenamiento Smolov, originario de Rusia (una de las mecas de la fuerza desde la época soviética), ya que fue creado por el ruso Sergey Smolov, un referente en los entrenamientos de fuerza y apodado “maestro de los deportes”.</description>
+    </item>
+  </channel>
+</rss>

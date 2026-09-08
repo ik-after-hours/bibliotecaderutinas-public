@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rutina Hst Original Avanzados</title>
+<link rel="stylesheet" href="../css/main.css">
+</head>
+<body class="plantilla-xlsx-page">
+<div class="plantilla-xlsx-shell">
+  <header class="plantilla-xlsx-header">
+    <h1>Rutina Hst Original Avanzados</h1>
+    <a class="plantilla-xlsx-download" href="rutina-hst-original-avanzados-bibliotecaderutinas.com.xls" download>Descargar Excel</a>
+  </header>
+  <p class="plantilla-xlsx-note">Vista de solo lectura. Descarga el fichero para editarlo.</p>
+  <nav id="sheet-tabs" class="xlsx-sheet-tabs" aria-label="Hojas"></nav>
+  <div id="sheet-content" class="xlsx-table-wrap" aria-live="polite">
+    <p class="xlsx-loading">Cargando plantilla…</p>
+  </div>
+  <p id="xlsx-error" class="xlsx-error" hidden></p>
+</div>
+<script type="text/javascript" src="../js/xlsx.full.min.js"></script>
+<script src="../js/plantilla-xlsx.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.PlantillaXlsx) {
+    window.PlantillaXlsx.init("rutina-hst-original-avanzados-bibliotecaderutinas.com.xls");
+  }
+});
+</script>
+</body>
+</html>

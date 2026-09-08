@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Greg Nuckols on Biblioteca de Rutinas</title><link>/tag/greg-nuckols/</link><description>Recent content in Greg Nuckols on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 21 Feb 2021 14:16:09 +0000</lastBuildDate><atom:link href="/tag/greg-nuckols/index.xml" rel="self" type="application/rss+xml"/><item><title>Programa Peso Muerto Greg Nuckols</title><link>/programa-peso-muerto-greg-nuckols/</link><pubDate>Sat, 28 Nov 2020 16:07:43 +0000</pubDate><guid>/programa-peso-muerto-greg-nuckols/</guid><description>ResumenEl programa forma parte de los programas gratuitos elaborados por el famosodibulgador de los entrenamientos de fuerza Greg Nuckols y que están centrados en la sentadilla, peso muerto y press de banca.
-Este programa en concreto es el centrado en la mejora del peso muerto.</description></item><item><title>Programa Sentadilla Greg Nuckols</title><link>/programa-sentadilla-greg-nuckols/</link><pubDate>Sat, 28 Nov 2020 14:32:07 +0000</pubDate><guid>/programa-sentadilla-greg-nuckols/</guid><description>ResumenEl programa de sentadilla, elaborado por el powerlifter y divulgador de los entrenamientos de fuerza Greg Nuckols, forma parte de su trilogía de programas destinados a mejorar de forma individual los 3 básicos del powerlifting: press de banca, sentadilla y peso muerto.</description></item><item><title>Programa Press de Banca Greg Nuckols</title><link>/programa-press-de-banca-greg-nuckols/</link><pubDate>Fri, 27 Nov 2020 19:31:53 +0000</pubDate><guid>/programa-press-de-banca-greg-nuckols/</guid><description>ResumenEl programa forma parte de los programas gratuitos elaborados por el famoso preparador de fuerza Greg Nuckols y centrados en la sentadilla, peso muerto y press de banca.
-Este programa en concreto es el centrado en la mejora del press de banca.</description></item><item><title>Programa entrenamiento Average To Savage 2.0</title><link>/programa-entrenamiento-average-to-savage-2-0/</link><pubDate>Tue, 06 Oct 2020 08:45:52 +0000</pubDate><guid>/programa-entrenamiento-average-to-savage-2-0/</guid><description>Introducción“Average to Savage 2.0” es un programa de entrenamiento creado por Greg Nuckols, un reputado entrenador y divulgador de las ciencias del deporte aplicadas al entrenamiento y rendimiento en el gimnasio.
-Average to Savage es más que una rutina, es un programa de entrenamiento donde Greg ha aplicado todos sus conocimientos y las conclusiones derivadas de la ciencia aplicada al entrenamiento, para crear una plantilla muy flexible y adaptable.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greg Nuckols on Biblioteca de Rutinas</title>
+    <link>//localhost:1313/tag/greg-nuckols/</link>
+    <description>Recent content in Greg Nuckols on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 21 Feb 2021 14:16:09 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tag/greg-nuckols/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programa Peso Muerto Greg Nuckols</title>
+      <link>//localhost:1313/programa-peso-muerto-greg-nuckols/</link>
+      <pubDate>Sat, 28 Nov 2020 16:07:43 +0000</pubDate>
+      <guid>//localhost:1313/programa-peso-muerto-greg-nuckols/</guid>
+      <description>Resumen El programa forma parte de los programas gratuitos elaborados por el famosodibulgador de los entrenamientos de fuerza Greg Nuckols y que están centrados en la sentadilla, peso muerto y press de banca.&#xA;Este programa en concreto es el centrado en la mejora del peso muerto.</description>
+    </item>
+    <item>
+      <title>Programa Sentadilla Greg Nuckols</title>
+      <link>//localhost:1313/programa-sentadilla-greg-nuckols/</link>
+      <pubDate>Sat, 28 Nov 2020 14:32:07 +0000</pubDate>
+      <guid>//localhost:1313/programa-sentadilla-greg-nuckols/</guid>
+      <description>Resumen El programa de sentadilla, elaborado por el powerlifter y divulgador de los entrenamientos de fuerza Greg Nuckols, forma parte de su trilogía de programas destinados a mejorar de forma individual los 3 básicos del powerlifting: press de banca, sentadilla y peso muerto.</description>
+    </item>
+    <item>
+      <title>Programa Press de Banca Greg Nuckols</title>
+      <link>//localhost:1313/programa-press-de-banca-greg-nuckols/</link>
+      <pubDate>Fri, 27 Nov 2020 19:31:53 +0000</pubDate>
+      <guid>//localhost:1313/programa-press-de-banca-greg-nuckols/</guid>
+      <description>Resumen El programa forma parte de los programas gratuitos elaborados por el famoso preparador de fuerza Greg Nuckols y centrados en la sentadilla, peso muerto y press de banca.&#xA;Este programa en concreto es el centrado en la mejora del press de banca.</description>
+    </item>
+    <item>
+      <title>Programa entrenamiento Average To Savage 2.0</title>
+      <link>//localhost:1313/programa-entrenamiento-average-to-savage-2-0/</link>
+      <pubDate>Tue, 06 Oct 2020 08:45:52 +0000</pubDate>
+      <guid>//localhost:1313/programa-entrenamiento-average-to-savage-2-0/</guid>
+      <description>Introducción “Average to Savage 2.0” es un programa de entrenamiento creado por Greg Nuckols, un reputado entrenador y divulgador de las ciencias del deporte aplicadas al entrenamiento y rendimiento en el gimnasio.&#xA;Average to Savage es más que una rutina, es un programa de entrenamiento donde Greg ha aplicado todos sus conocimientos y las conclusiones derivadas de la ciencia aplicada al entrenamiento, para crear una plantilla muy flexible y adaptable.</description>
+    </item>
+  </channel>
+</rss>

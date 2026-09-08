@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rutinas powerlifting on Biblioteca de Rutinas</title><link>/tag/rutinas-powerlifting/</link><description>Recent content in Rutinas powerlifting on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 13 Jun 2021 13:59:45 +0000</lastBuildDate><atom:link href="/tag/rutinas-powerlifting/index.xml" rel="self" type="application/rss+xml"/><item><title>Rutina Powerlifting Dietmar Wolf</title><link>/rutina-powerlifting-dietmar-wolf/</link><pubDate>Sun, 13 Jun 2021 13:59:44 +0000</pubDate><guid>/rutina-powerlifting-dietmar-wolf/</guid><description>IntroducciónDietmar Wolf es el seleccionador y entrenador a la cabeza del equipo de powerlifting de Noruega desde hace bastantes años, y cuyos métodos de entrenamiento han captado el interés de la comunidad de powerlifting internacional debido al éxito de sus pupilos.</description></item><item><title>Programa entrenamiento Calgary Barbell</title><link>/programa-entrenamiento-calgary-barbell/</link><pubDate>Fri, 23 Oct 2020 21:02:47 +0000</pubDate><guid>/programa-entrenamiento-calgary-barbell/</guid><description>IntroducciónCreado por el powerlifter y entrenador canadiense Bryce Krawczyk, Calgary Barbell es uno de los centros de entrenamiento especializados en powerlifting de Canadá que más fama han ganado en las redes norteamericanas en los últimos años.
-En cuanto a Bryce Krawczyk, es competidor de la IPF (International Powerlifting Federation), logrando marcas increibles, como totales de 1030 kg en la categoría de -120 kg.</description></item><item><title>Programa de fuerza The Juggernaut Method</title><link>/programa-de-fuerza-the-juggernaut-method/</link><pubDate>Mon, 12 Oct 2020 18:02:41 +0000</pubDate><guid>/programa-de-fuerza-the-juggernaut-method/</guid><description>Introducción“The Juggernaut Method” es un programa de entrenamiento diseñado para mejorar las ganancias de fuerza y el desempeño atlético de todo tipo de atletas a través de la expresión de esta fuerza.
-Ha sido creado por el ex-lanzador de peso, powerlifter y divulgador de los entrenamientos de fuerza Chad Wesley Smith.</description></item><item><title>Programa de Fuerza Jonnie Candito Intermedios</title><link>/programa-de-fuerza-jonnie-candito-intermedios/</link><pubDate>Thu, 08 Oct 2020 14:37:19 +0000</pubDate><guid>/programa-de-fuerza-jonnie-candito-intermedios/</guid><description>IntroducciónJonnie Candito es un powerlifter natural estadounidense, youtuber y divulgador de los entrenamientos de fuerza. Sus marcas oficiales en competición son: 165kg en press de banca, 312,5kg en peso muerto y 262,5 kg en sentadilla, llegándolas a superar fuera de competición, por ejemplo con 283 kg en sentadilla.</description></item><item><title>Compilación Rutinas Sheiko</title><link>/compilacion-rutinas-sheiko/</link><pubDate>Sun, 27 Sep 2020 21:07:25 +0000</pubDate><guid>/compilacion-rutinas-sheiko/</guid><description>IntroducciónLas rutinas Boris Sheiko son programas de powerlifting creados por Boris Sheiko, uno de los mejores entrenadores de la historia del powerlifting.
-Sus programas son conocidos por su alto volumen y su alta exigencia, pero aseguran grandes resultados para aquellos que pueden completarlos, siendo considerados como los mejores programas del mundo para powerlifting.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rutinas powerlifting on Biblioteca de Rutinas</title>
+    <link>//localhost:1313/tag/rutinas-powerlifting/</link>
+    <description>Recent content in Rutinas powerlifting on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 13 Jun 2021 13:59:45 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tag/rutinas-powerlifting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rutina Powerlifting Dietmar Wolf</title>
+      <link>//localhost:1313/rutina-powerlifting-dietmar-wolf/</link>
+      <pubDate>Sun, 13 Jun 2021 13:59:44 +0000</pubDate>
+      <guid>//localhost:1313/rutina-powerlifting-dietmar-wolf/</guid>
+      <description>Introducción Dietmar Wolf es el seleccionador y entrenador a la cabeza del equipo de powerlifting de Noruega desde hace bastantes años, y cuyos métodos de entrenamiento han captado el interés de la comunidad de powerlifting internacional debido al éxito de sus pupilos.</description>
+    </item>
+    <item>
+      <title>Programa entrenamiento Calgary Barbell</title>
+      <link>//localhost:1313/programa-entrenamiento-calgary-barbell/</link>
+      <pubDate>Fri, 23 Oct 2020 21:02:47 +0000</pubDate>
+      <guid>//localhost:1313/programa-entrenamiento-calgary-barbell/</guid>
+      <description>Introducción Creado por el powerlifter y entrenador canadiense Bryce Krawczyk, Calgary Barbell es uno de los centros de entrenamiento especializados en powerlifting de Canadá que más fama han ganado en las redes norteamericanas en los últimos años.&#xA;En cuanto a Bryce Krawczyk, es competidor de la IPF (International Powerlifting Federation), logrando marcas increibles, como totales de 1030 kg en la categoría de -120 kg.</description>
+    </item>
+    <item>
+      <title>Programa de fuerza The Juggernaut Method</title>
+      <link>//localhost:1313/programa-de-fuerza-the-juggernaut-method/</link>
+      <pubDate>Mon, 12 Oct 2020 18:02:41 +0000</pubDate>
+      <guid>//localhost:1313/programa-de-fuerza-the-juggernaut-method/</guid>
+      <description>Introducción “The Juggernaut Method” es un programa de entrenamiento diseñado para mejorar las ganancias de fuerza y el desempeño atlético de todo tipo de atletas a través de la expresión de esta fuerza.&#xA;Ha sido creado por el ex-lanzador de peso, powerlifter y divulgador de los entrenamientos de fuerza Chad Wesley Smith.</description>
+    </item>
+    <item>
+      <title>Programa de Fuerza Jonnie Candito Intermedios</title>
+      <link>//localhost:1313/programa-de-fuerza-jonnie-candito-intermedios/</link>
+      <pubDate>Thu, 08 Oct 2020 14:37:19 +0000</pubDate>
+      <guid>//localhost:1313/programa-de-fuerza-jonnie-candito-intermedios/</guid>
+      <description>Introducción Jonnie Candito es un powerlifter natural estadounidense, youtuber y divulgador de los entrenamientos de fuerza. Sus marcas oficiales en competición son: 165kg en press de banca, 312,5kg en peso muerto y 262,5 kg en sentadilla, llegándolas a superar fuera de competición, por ejemplo con 283 kg en sentadilla.</description>
+    </item>
+    <item>
+      <title>Compilación Rutinas Sheiko</title>
+      <link>//localhost:1313/compilacion-rutinas-sheiko/</link>
+      <pubDate>Sun, 27 Sep 2020 21:07:25 +0000</pubDate>
+      <guid>//localhost:1313/compilacion-rutinas-sheiko/</guid>
+      <description>Introducción Las rutinas Boris Sheiko son programas de powerlifting creados por Boris Sheiko, uno de los mejores entrenadores de la historia del powerlifting.&#xA;Sus programas son conocidos por su alto volumen y su alta exigencia, pero aseguran grandes resultados para aquellos que pueden completarlos, siendo considerados como los mejores programas del mundo para powerlifting.</description>
+    </item>
+  </channel>
+</rss>

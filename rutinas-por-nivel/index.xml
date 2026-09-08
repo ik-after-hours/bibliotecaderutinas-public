@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rutinas por nivel on Biblioteca de Rutinas</title>
+    <link>//localhost:1313/rutinas-por-nivel/</link>
+    <description>Recent content in Rutinas por nivel on Biblioteca de Rutinas</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/rutinas-por-nivel/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

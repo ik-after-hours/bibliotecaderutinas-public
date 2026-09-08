@@ -11,6 +11,22 @@
     }
   }
 
+  function rowIsEmpty(row) {
+    for (var c = 0; c < row.length; c++) {
+      if (String(row[c]).trim() !== "") return false;
+    }
+    return true;
+  }
+
+  function cellsHtml(row, tag) {
+    var html = "<tr>";
+    for (var i = 0; i < row.length; i++) {
+      var cell = row[i] == null ? "" : String(row[i]);
+      html += "<" + tag + ">" + escapeHtml(cell) + "</" + tag + ">";
+    }
+    return html + "</tr>";
+  }
+
   function sheetToTable(sheet) {
     var rows = global.XLSX.utils.sheet_to_json(sheet, {
       header: 1,
@@ -20,25 +36,25 @@
     if (!rows.length) {
       return "<p><em>(hoja vacía)</em></p>";
     }
-    var html = '<table class="xlsx-table"><tbody>';
+    var html = '<table class="xlsx-table">';
+    var headerDone = false;
+    var bodyOpen = false;
     for (var r = 0; r < rows.length; r++) {
       var row = rows[r];
-      var empty = true;
-      for (var c = 0; c < row.length; c++) {
-        if (String(row[c]).trim() !== "") {
-          empty = false;
-          break;
-        }
+      if (rowIsEmpty(row)) continue;
+      if (!headerDone) {
+        html += "<thead>" + cellsHtml(row, "th") + "</thead><tbody>";
+        headerDone = true;
+        bodyOpen = true;
+        continue;
       }
-      if (empty) continue;
-      html += "<tr>";
-      for (var i = 0; i < row.length; i++) {
-        var cell = row[i] == null ? "" : String(row[i]);
-        html += "<td>" + escapeHtml(cell) + "</td>";
-      }
-      html += "</tr>";
+      html += cellsHtml(row, "td");
     }
-    html += "</tbody></table>";
+    if (!headerDone) {
+      return "<p><em>(hoja vacía)</em></p>";
+    }
+    if (bodyOpen) html += "</tbody>";
+    html += "</table>";
     return html;
   }
 
