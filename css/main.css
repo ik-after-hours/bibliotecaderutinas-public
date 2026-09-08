@@ -247,14 +247,26 @@ input[type="submit"]:hover {
 .search-form {
   display: flex;
   gap: 6px;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.search-form label {
+  flex: 1;
+  min-width: 0;
 }
 
 .search-field {
-  flex: 1;
+  width: 100%;
+  box-sizing: border-box;
   padding: 8px 10px;
   border: 1px solid #ccc;
   background: #fafafa;
   color: #666;
+}
+
+.search-submit {
+  flex-shrink: 0;
 }
 
 .tagcloud {
@@ -302,15 +314,18 @@ input[type="submit"]:hover {
 }
 
 .related-grid a {
-  width: 150px;
+  width: min(150px, 100%);
+  max-width: 100%;
   text-align: center;
   color: #3a3a3a;
 }
 
 .related-grid figure {
   margin: 0 0 8px;
-  width: 150px;
-  height: 150px;
+  width: min(150px, 100%);
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1;
   overflow: hidden;
   border-radius: 4px;
 }
@@ -526,6 +541,84 @@ body.plantilla-xlsx-page {
   font-size: 0.95em;
   text-align: center;
   color: #555;
+}
+
+.calc-1rm {
+  max-width: 420px;
+  margin: 1.5em auto;
+  padding: 1.25em 1.5em;
+  background: #f7f8f9;
+  border: 1px solid #e2e2e2;
+}
+
+.calc-1rm__row {
+  margin-bottom: 1em;
+}
+
+.calc-1rm__row > label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.35em;
+  color: #222;
+}
+
+.calc-1rm input[type="number"],
+.calc-1rm select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #3a3a3a;
+  font: inherit;
+}
+
+.calc-1rm__weight {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  align-items: center;
+}
+
+.calc-1rm__weight input[type="number"] {
+  flex: 1 1 140px;
+}
+
+.calc-1rm__units {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0.75em;
+}
+
+.calc-1rm__units label {
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.calc-1rm__actions {
+  margin: 1.25em 0 1em;
+}
+
+.calc-1rm__result {
+  margin: 0 0 0.75em;
+  font-size: 1.15em;
+}
+
+.calc-1rm__result-label {
+  margin-right: 0.35em;
+}
+
+.calc-1rm__credit {
+  margin: 0;
+  font-size: 0.85em;
+  color: #575760;
+}
+
+@media (max-width: 992px) {
+  .content-area, .sidebar { width: 100%; padding-right: 0; }
+  .sidebar .widget { padding: 30px; }
 }
 
 @media (max-width: 768px) {

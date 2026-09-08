@@ -85,4 +85,52 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   }
+
+  const calc = document.getElementById("calc-1rm");
+  if (calc) {
+    const formulas = {
+      epley: (w, r) => w * (1 + r / 30),
+      brzycki: (w, r) => w / (1.0278 - 0.0278 * r),
+      lombardi: (w, r) => w * Math.pow(r, 0.1),
+      mayhew: (w, r) => (100 * w) / (52.2 + 41.9 * Math.exp(-0.055 * r)),
+      oconner: (w, r) => w * (1 + r / 40),
+      wathan: (w, r) => (100 * w) / (48.8 + 53.8 * Math.exp(-0.075 * r)),
+    };
+    const weightInput = calc.querySelector("#calc-1rm-weight");
+    const repsInput = calc.querySelector("#calc-1rm-reps");
+    const formulaSelect = calc.querySelector("#calc-1rm-formula");
+    const output = calc.querySelector("#calc-1rm-output");
+
+    const format = (n) =>
+      n.toLocaleString("es-ES", { maximumFractionDigits: 1, minimumFractionDigits: 0 });
+
+    const run = () => {
+      const weight = Number(weightInput.value);
+      const reps = Number(repsInput.value);
+      const unit = (calc.querySelector('input[name="unit"]:checked') || {}).value || "kg";
+      const fn = formulas[formulaSelect.value] || formulas.epley;
+      if (!(weight > 0) || !(reps >= 1) || !Number.isFinite(weight) || !Number.isFinite(reps)) {
+        output.textContent = "—";
+        return;
+      }
+      if (formulaSelect.value === "brzycki" && reps >= 37) {
+        output.textContent = "Brzycki no es válida por encima de 36 repeticiones";
+        return;
+      }
+      const oneRm = fn(weight, reps);
+      if (!Number.isFinite(oneRm) || oneRm <= 0) {
+        output.textContent = "—";
+        return;
+      }
+      output.textContent = `${format(oneRm)} ${unit}`;
+    };
+
+    calc.addEventListener("submit", (e) => {
+      e.preventDefault();
+      run();
+    });
+    calc.addEventListener("change", run);
+    calc.addEventListener("input", run);
+    run();
+  }
 });
