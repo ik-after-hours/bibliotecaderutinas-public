@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Torso pierna on Biblioteca de Rutinas</title>
-    <link>//localhost:1313/tag/torso-pierna/</link>
-    <description>Recent content in Torso pierna on Biblioteca de Rutinas</description>
-    <generator>Hugo</generator>
-    <language>es</language>
-    <lastBuildDate>Sat, 08 May 2021 15:25:53 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tag/torso-pierna/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rutina Genérica de Volumen de Lyle McDonald</title>
-      <link>//localhost:1313/rutina-generica-de-volumen-de-lyle-mcdonald/</link>
-      <pubDate>Sat, 08 May 2021 15:25:51 +0000</pubDate>
-      <guid>//localhost:1313/rutina-generica-de-volumen-de-lyle-mcdonald/</guid>
-      <description>Introducción Lyle McDonald es un reconocido fisiólogo dentro de los círculos del llamado “entrenamiento científico”, es decir, la optimización del entrenamiento a través del estudio científico de todas las variables que intervienen en el mismo.&#xA;Es especialmente conocido por sus estudios en el ámbito de la nutrición deportiva, especialmente en lo relativo a la pérdida de grasa y la ganancia de músculo.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Torso pierna on Biblioteca de Rutinas</title><link>/tag/torso-pierna/</link><description>Recent content in Torso pierna on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sat, 08 May 2021 15:25:53 +0000</lastBuildDate><atom:link href="/tag/torso-pierna/index.xml" rel="self" type="application/rss+xml"/><item><title>Rutina Genérica de Volumen de Lyle McDonald</title><link>/rutina-generica-de-volumen-de-lyle-mcdonald/</link><pubDate>Sat, 08 May 2021 15:25:51 +0000</pubDate><guid>/rutina-generica-de-volumen-de-lyle-mcdonald/</guid><description>Introducción Lyle McDonald es un reconocido fisiólogo dentro de los círculos del llamado “entrenamiento científico”, es decir, la optimización del entrenamiento a través del estudio científico de todas las variables que intervienen en el mismo.
+Es especialmente conocido por sus estudios en el ámbito de la nutrición deportiva, especialmente en lo relativo a la pérdida de grasa y la ganancia de músculo.</description></item></channel></rss>

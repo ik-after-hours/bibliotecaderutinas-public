@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rutinas kettlebell on Biblioteca de Rutinas</title>
-    <link>//localhost:1313/directorio-de-rutinas/rutinas-kettlebell/</link>
-    <description>Recent content in Rutinas kettlebell on Biblioteca de Rutinas</description>
-    <generator>Hugo</generator>
-    <language>es</language>
-    <lastBuildDate>Sun, 21 Feb 2021 13:34:19 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/directorio-de-rutinas/rutinas-kettlebell/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rutina Kettlebell Principiantes</title>
-      <link>//localhost:1313/rutina-kettlebell-principiantes/</link>
-      <pubDate>Fri, 02 Oct 2020 09:36:29 +0000</pubDate>
-      <guid>//localhost:1313/rutina-kettlebell-principiantes/</guid>
-      <description>Introducción al entrenamiento con kettlebell Las kettlebells o pesas rusas tienen una gran reputación de ser una de las herramientas más eficientes para los entrenamientos de alta intensidad (HIIT) y acondicionamiento físico.&#xA;Durante mucho tiempo se consideraron los entrenamientos de kettlebell como una formidable herramienta de acondicionamiento y entrenamiento de los atletas y de las unidades de fuerzas especiales de los cuerpos militares.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rutinas kettlebell on Biblioteca de Rutinas</title><link>/directorio-de-rutinas/rutinas-kettlebell/</link><description>Recent content in Rutinas kettlebell on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 21 Feb 2021 13:34:19 +0000</lastBuildDate><atom:link href="/directorio-de-rutinas/rutinas-kettlebell/index.xml" rel="self" type="application/rss+xml"/><item><title>Rutina Kettlebell Principiantes</title><link>/rutina-kettlebell-principiantes/</link><pubDate>Fri, 02 Oct 2020 09:36:29 +0000</pubDate><guid>/rutina-kettlebell-principiantes/</guid><description>Introducción al entrenamiento con kettlebell Las kettlebells o pesas rusas tienen una gran reputación de ser una de las herramientas más eficientes para los entrenamientos de alta intensidad (HIIT) y acondicionamiento físico.
+Durante mucho tiempo se consideraron los entrenamientos de kettlebell como una formidable herramienta de acondicionamiento y entrenamiento de los atletas y de las unidades de fuerzas especiales de los cuerpos militares.</description></item></channel></rss>

@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rutina casa on Biblioteca de Rutinas</title>
-    <link>//localhost:1313/tag/rutina-casa/</link>
-    <description>Recent content in Rutina casa on Biblioteca de Rutinas</description>
-    <generator>Hugo</generator>
-    <language>es</language>
-    <lastBuildDate>Tue, 15 Mar 2022 15:46:27 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tag/rutina-casa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Compilación rutinas de entrenamiento en casa</title>
-      <link>//localhost:1313/compilacion-rutinas-de-entrenamiento-en-casa/</link>
-      <pubDate>Thu, 24 Sep 2020 14:29:45 +0000</pubDate>
-      <guid>//localhost:1313/compilacion-rutinas-de-entrenamiento-en-casa/</guid>
-      <description>Compilación de rutinas efectivas para entrenar en casa sin apenas equipamiento, útiles en tiempos como los actuales de cuarentena.&#xA;Rutina Entrenamiento Casero Joe Delaney Rutina para entrenar en casa con el mínimo equipamiento posible: principalmente bandas elásticas. Está compuesta por 3 sesiones de entrenamiento y un cuarto de descanso, por lo tanto se puede hacer con frecuencia 2.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rutina casa on Biblioteca de Rutinas</title><link>/tag/rutina-casa/</link><description>Recent content in Rutina casa on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Tue, 15 Mar 2022 15:46:27 +0000</lastBuildDate><atom:link href="/tag/rutina-casa/index.xml" rel="self" type="application/rss+xml"/><item><title>Compilación rutinas de entrenamiento en casa</title><link>/compilacion-rutinas-de-entrenamiento-en-casa/</link><pubDate>Thu, 24 Sep 2020 14:29:45 +0000</pubDate><guid>/compilacion-rutinas-de-entrenamiento-en-casa/</guid><description>Compilación de rutinas efectivas para entrenar en casa sin apenas equipamiento, útiles en tiempos como los actuales de cuarentena.
+Rutina Entrenamiento Casero Joe Delaney Rutina para entrenar en casa con el mínimo equipamiento posible: principalmente bandas elásticas. Está compuesta por 3 sesiones de entrenamiento y un cuarto de descanso, por lo tanto se puede hacer con frecuencia 2.</description></item></channel></rss>

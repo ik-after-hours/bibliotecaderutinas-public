@@ -1,68 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Grandes culturistas on Biblioteca de Rutinas</title>
-    <link>//localhost:1313/tag/culturistas/</link>
-    <description>Recent content in Grandes culturistas on Biblioteca de Rutinas</description>
-    <generator>Hugo</generator>
-    <language>es</language>
-    <lastBuildDate>Tue, 08 Mar 2022 18:28:03 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tag/culturistas/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rutina de Hipertrofia de Chris Bumstead</title>
-      <link>//localhost:1313/rutina-de-hipertrofia-de-chris-bumstead/</link>
-      <pubDate>Sat, 15 Jan 2022 16:16:52 +0000</pubDate>
-      <guid>//localhost:1313/rutina-de-hipertrofia-de-chris-bumstead/</guid>
-      <description>Introducción Christopher Adam Bumstead, es un culturista canadiense natural de Ottawa, que se ha convertido en una de las mayores sensaciones del panorama internacional del fisioculturismo en la actualidad.&#xA;Con sólo 26 años se ha alzado ya con 3 títulos Mr.</description>
-    </item>
-    <item>
-      <title>Rutina Original Heavy Duty Mike Mentzer</title>
-      <link>//localhost:1313/rutina-original-heavy-duty-mike-mentzer/</link>
-      <pubDate>Mon, 11 Oct 2021 14:39:47 +0000</pubDate>
-      <guid>//localhost:1313/rutina-original-heavy-duty-mike-mentzer/</guid>
-      <description>Introducción Mike Mentzer fue una de las grandes figuras de la conocida como “golden era” (edad de oro) del culturismo, correspondiente con las décadas de finales de los 60, los 70 y los inicios de los 80.&#xA;Era conocido como el “culturista filósofo” debido a su visión del culturismo y como esta formaba parte de su filosofía de vida; el objetivismo.</description>
-    </item>
-    <item>
-      <title>Rutina Dorian Yates</title>
-      <link>//localhost:1313/rutina-dorian-yates/</link>
-      <pubDate>Sat, 15 May 2021 13:17:53 +0000</pubDate>
-      <guid>//localhost:1313/rutina-dorian-yates/</guid>
-      <description>Introducción Dorian Yates es una de las figuras más reconocidas de la historia del culturismo mundial, a la altura de nombres como Arnold Schwerzenegger, Lee Haney, Ronnie Coleman, etc.&#xA;En 1992 irrumpió en el Mr. Olympia alzándose como campeón por primera vez y terminando con el reinado de 8 años de la leyenda Lee Haney, tras haber debutado sólo un año antes en esta competición.</description>
-    </item>
-    <item>
-      <title>Rutina Steve Reeves</title>
-      <link>//localhost:1313/rutina-steve-reeves/</link>
-      <pubDate>Sat, 20 Mar 2021 12:50:09 +0000</pubDate>
-      <guid>//localhost:1313/rutina-steve-reeves/</guid>
-      <description>Introducción Stephen Lester Reeves, más conocido simplemente como Steve Reeves, fue uno de los primeros grandes culturistas clásicos en llegar al público de masas. Podíamos decir que Steve Reeves fue el Arnold Schwarzenegger primigenio.&#xA;En 1947 ganó su primer Mr. America y un año después se proclamó por primera vez como campeón Mr.</description>
-    </item>
-    <item>
-      <title>Rutina Lee Priest</title>
-      <link>//localhost:1313/rutina-lee-priest/</link>
-      <pubDate>Fri, 19 Mar 2021 12:49:17 +0000</pubDate>
-      <guid>//localhost:1313/rutina-lee-priest/</guid>
-      <description>Introducción Lee Priest es, sin duda, uno de los grandes de la historia del culturismo moderno, pese no haber ganado nunca el Mr. Olympia (tres sextos puestos fueron su mejor posición).&#xA;El australiano comenzó a interesarse por el entrenamiento con pesas desde muy temprana edad (los 12 años), ya que su madre había sido también competidora.</description>
-    </item>
-    <item>
-      <title>Rutina Jay Cutler</title>
-      <link>//localhost:1313/rutina-jay-cutler/</link>
-      <pubDate>Sun, 27 Dec 2020 17:31:26 +0000</pubDate>
-      <guid>//localhost:1313/rutina-jay-cutler/</guid>
-      <description>Resumen Rutina Jay Cutler Jay Cutler es uno de los grandes culturistas modernos, con 4 Mr. Olympias a sus espaldas, siendo el culturista que acabó con el reinado de Ronnie Coleman (descubre la rutina de Ronnie Coleman) en el año 2006.</description>
-    </item>
-    <item>
-      <title>Rutina Ronnie Coleman</title>
-      <link>//localhost:1313/rutina-ronnie-coleman/</link>
-      <pubDate>Sun, 27 Dec 2020 15:22:35 +0000</pubDate>
-      <guid>//localhost:1313/rutina-ronnie-coleman/</guid>
-      <description>Resumen Rutina Ronnie Coleman Ronnie Coleman es uno de los culturistas más exitosos de la historia, con nada menos que 8 Mr. Olympia a sus espaldas, el trofeo más prestigioso del mundo en cuanto a fisicoculturismo.&#xA;Comenzó sus primeras andadas en el gimnasio en los deportes de fuerza, demostrando un gran nivel en el powerlifting pese a su juventud.</description>
-    </item>
-    <item>
-      <title>Rutina Frank Zane</title>
-      <link>//localhost:1313/rutina-frank-zane/</link>
-      <pubDate>Wed, 14 Oct 2020 15:01:38 +0000</pubDate>
-      <guid>//localhost:1313/rutina-frank-zane/</guid>
-      <description>Introducción Frank Zane es uno de los más culturistas más famosos de la conocida como “edad de oro” del culturismo, consiguiendo 3 trofeos de Mr. Olympia durante los años 70, además de conseguir también sendos títulos de Mr. Universo.&#xA;Frank es conocido por su musculatura proporcionada y simétrica, dos puntos sobre los que basó todo su entrenamiento y dedicó toda su atención.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Grandes culturistas on Biblioteca de Rutinas</title><link>/tag/culturistas/</link><description>Recent content in Grandes culturistas on Biblioteca de Rutinas</description><generator>Hugo</generator><language>es</language><lastBuildDate>Tue, 08 Mar 2022 18:28:03 +0000</lastBuildDate><atom:link href="/tag/culturistas/index.xml" rel="self" type="application/rss+xml"/><item><title>Rutina de Hipertrofia de Chris Bumstead</title><link>/rutina-de-hipertrofia-de-chris-bumstead/</link><pubDate>Sat, 15 Jan 2022 16:16:52 +0000</pubDate><guid>/rutina-de-hipertrofia-de-chris-bumstead/</guid><description>Introducción Christopher Adam Bumstead, es un culturista canadiense natural de Ottawa, que se ha convertido en una de las mayores sensaciones del panorama internacional del fisioculturismo en la actualidad.
+Con sólo 26 años se ha alzado ya con 3 títulos Mr.</description></item><item><title>Rutina Original Heavy Duty Mike Mentzer</title><link>/rutina-original-heavy-duty-mike-mentzer/</link><pubDate>Mon, 11 Oct 2021 14:39:47 +0000</pubDate><guid>/rutina-original-heavy-duty-mike-mentzer/</guid><description>Introducción Mike Mentzer fue una de las grandes figuras de la conocida como “golden era” (edad de oro) del culturismo, correspondiente con las décadas de finales de los 60, los 70 y los inicios de los 80.
+Era conocido como el “culturista filósofo” debido a su visión del culturismo y como esta formaba parte de su filosofía de vida; el objetivismo.</description></item><item><title>Rutina Dorian Yates</title><link>/rutina-dorian-yates/</link><pubDate>Sat, 15 May 2021 13:17:53 +0000</pubDate><guid>/rutina-dorian-yates/</guid><description>Introducción Dorian Yates es una de las figuras más reconocidas de la historia del culturismo mundial, a la altura de nombres como Arnold Schwerzenegger, Lee Haney, Ronnie Coleman, etc.
+En 1992 irrumpió en el Mr. Olympia alzándose como campeón por primera vez y terminando con el reinado de 8 años de la leyenda Lee Haney, tras haber debutado sólo un año antes en esta competición.</description></item><item><title>Rutina Steve Reeves</title><link>/rutina-steve-reeves/</link><pubDate>Sat, 20 Mar 2021 12:50:09 +0000</pubDate><guid>/rutina-steve-reeves/</guid><description>Introducción Stephen Lester Reeves, más conocido simplemente como Steve Reeves, fue uno de los primeros grandes culturistas clásicos en llegar al público de masas. Podíamos decir que Steve Reeves fue el Arnold Schwarzenegger primigenio.
+En 1947 ganó su primer Mr. America y un año después se proclamó por primera vez como campeón Mr.</description></item><item><title>Rutina Lee Priest</title><link>/rutina-lee-priest/</link><pubDate>Fri, 19 Mar 2021 12:49:17 +0000</pubDate><guid>/rutina-lee-priest/</guid><description>Introducción Lee Priest es, sin duda, uno de los grandes de la historia del culturismo moderno, pese no haber ganado nunca el Mr. Olympia (tres sextos puestos fueron su mejor posición).
+El australiano comenzó a interesarse por el entrenamiento con pesas desde muy temprana edad (los 12 años), ya que su madre había sido también competidora.</description></item><item><title>Rutina Jay Cutler</title><link>/rutina-jay-cutler/</link><pubDate>Sun, 27 Dec 2020 17:31:26 +0000</pubDate><guid>/rutina-jay-cutler/</guid><description>Resumen Rutina Jay Cutler Jay Cutler es uno de los grandes culturistas modernos, con 4 Mr. Olympias a sus espaldas, siendo el culturista que acabó con el reinado de Ronnie Coleman (descubre la rutina de Ronnie Coleman) en el año 2006.</description></item><item><title>Rutina Ronnie Coleman</title><link>/rutina-ronnie-coleman/</link><pubDate>Sun, 27 Dec 2020 15:22:35 +0000</pubDate><guid>/rutina-ronnie-coleman/</guid><description>Resumen Rutina Ronnie Coleman Ronnie Coleman es uno de los culturistas más exitosos de la historia, con nada menos que 8 Mr. Olympia a sus espaldas, el trofeo más prestigioso del mundo en cuanto a fisicoculturismo.
+Comenzó sus primeras andadas en el gimnasio en los deportes de fuerza, demostrando un gran nivel en el powerlifting pese a su juventud.</description></item><item><title>Rutina Frank Zane</title><link>/rutina-frank-zane/</link><pubDate>Wed, 14 Oct 2020 15:01:38 +0000</pubDate><guid>/rutina-frank-zane/</guid><description>Introducción Frank Zane es uno de los más culturistas más famosos de la conocida como “edad de oro” del culturismo, consiguiendo 3 trofeos de Mr. Olympia durante los años 70, además de conseguir también sendos títulos de Mr. Universo.
+Frank es conocido por su musculatura proporcionada y simétrica, dos puntos sobre los que basó todo su entrenamiento y dedicó toda su atención.</description></item></channel></rss>
